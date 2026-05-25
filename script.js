@@ -4,6 +4,8 @@
 
         // 이모지 목록
         EMOJIS: {
+            "cider": "https://raw.githubusercontent.com/daldal1032/CustomEmojis/refs/heads/main/img/cider_width_128.png",
+            "halfcider": "https://raw.githubusercontent.com/daldal1032/CustomEmojis/refs/heads/main/img/cider_half_width_128.png",
             "blobangery": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobangery.webp",
             "blobangry": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobangry.webp",
             "blobaww": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobaww.webp",
@@ -18,9 +20,8 @@
             "blobsob": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobsob.webp",
             "blobthinking": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobthinking.webp",
             "blobthumbsup": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobthumbsup.webp",
-            "blobyum": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobyum.webp",
-            "cider": "https://raw.githubusercontent.com/daldal1032/CustomEmojis/refs/heads/main/img/cider_width_128.webp",
-            "halfcider": "https://raw.githubusercontent.com/daldal1032/CustomEmojis/refs/heads/main/img/cider_half_width_128.webp"
+            "blobyum": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobyum.webp"
+
         }
     };
 
