@@ -4,8 +4,8 @@
 
         // 이모지 목록
         EMOJIS: {
-            "cider": "https://raw.githubusercontent.com/daldal1032/CustomEmojis/refs/heads/main/img/cider_width_128.png",
-            "halfcider": "https://raw.githubusercontent.com/daldal1032/CustomEmojis/refs/heads/main/img/cider_half_width_128.png",
+            "cider": "https://raw.githubusercontent.com/daldal1032/CustomEmojis/refs/heads/main/img/cider.png",
+            "halfcider": "https://raw.githubusercontent.com/daldal1032/CustomEmojis/refs/heads/main/img/halfcider.png",
             "blobangery": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobangery.webp",
             "blobangry": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobangry.webp",
             "blobaww": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobaww.webp",
