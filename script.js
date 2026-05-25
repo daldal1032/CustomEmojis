@@ -1,6 +1,6 @@
 {
     const CONFIG = {
-        SCALE: 1.2, // 이모지의 크기 ex) 폰트 사이즈 * 1.2
+        SCALE: 2, // 이모지의 크기 ex) 폰트 사이즈 * 1.2
 
         // 이모지 목록
         EMOJIS: {
@@ -18,7 +18,9 @@
             "blobsob": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobsob.webp",
             "blobthinking": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobthinking.webp",
             "blobthumbsup": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobthumbsup.webp",
-            "blobyum": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobyum.webp"
+            "blobyum": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobyum.webp",
+            "cider": "https://raw.githubusercontent.com/daldal1032/CustomEmojis/refs/heads/main/img/cider_width_128.png",
+            "halfcider": "https://raw.githubusercontent.com/daldal1032/CustomEmojis/refs/heads/main/img/cider_half_width_128.png"
         }
     };
 
