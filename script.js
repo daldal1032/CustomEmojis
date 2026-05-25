@@ -4,7 +4,7 @@
 
         // 이모지 목록
         EMOJIS: {
-            "cider": "https://github.com/daldal1032/CustomEmojis/blob/main/img/cider.png?raw=true",
+            "cider": "https://raw.githubusercontent.com/daldal1032/CustomEmojis/refs/heads/main/img/cider.png",
             "halfcider": "https://raw.githubusercontent.com/daldal1032/CustomEmojis/refs/heads/main/img/halfcider.png",
             "blobangery": "https://raw.githubusercontent.com/daldal1032/CustomEmojis/refs/heads/main/img/blobangery.webp",
             "blobangry": "https://raw.githubusercontent.com/daldal1032/CustomEmojis/refs/heads/main/img/blobangry.webp",
