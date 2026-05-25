@@ -19,8 +19,8 @@
             "blobthinking": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobthinking.webp",
             "blobthumbsup": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobthumbsup.webp",
             "blobyum": "https://raw.githubusercontent.com/simnple/CustomEmojis/refs/heads/main/img/blobyum.webp",
-            "cider": "https://raw.githubusercontent.com/daldal1032/CustomEmojis/refs/heads/main/img/cider_width_128.png",
-            "halfcider": "https://raw.githubusercontent.com/daldal1032/CustomEmojis/refs/heads/main/img/cider_half_width_128.png"
+            "cider": "https://raw.githubusercontent.com/daldal1032/CustomEmojis/refs/heads/main/img/cider_width_128.webp",
+            "halfcider": "https://raw.githubusercontent.com/daldal1032/CustomEmojis/refs/heads/main/img/cider_half_width_128.webp"
         }
     };
 
